@@ -1,2 +1,2 @@
 # Recipe Recommendations with t-Distributed Stochastic Neighbor Embedding and the k-Nearest Neighbors Algorithm
-This notebook contains a description and analysis of how I iteratively designed with a machine learning-based recipe recommendation system for a platform that I am building for a class along with a group. This full notebook, however, was researched and written exclusively by me.
+This notebook contains a description and analysis of how I iteratively designed a machine learning-based recipe recommendation system for a platform that a few friends and I are building for a class. Although the full platform is a group project, this notebook is entirely my own work—I conducted all of the algorithmic research and wrote the code myself.
